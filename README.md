@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 ## Hello There! I'm [Rafael Castellanos-Welsh][website] 🇺🇸 / 🇲🇽 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rafaelcastellanoswelsh.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rafawelsh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qwaemor)
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ## I'm a Software Engineer, Notion Fanatic, and Community Builder!
 
@@ -27,12 +31,6 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: I have played the 🎷 for 13 years now. I am currently training for my second marathon 🏃🏽
 - 👨🏽‍💻 I’m looking for software engineering soles 👨🏽‍💻
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
