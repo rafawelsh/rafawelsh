@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 
 ## I'm a Software Engineer, Notion Fanatic, and Community Builder!
 
@@ -70,12 +70,8 @@ Here are some ideas to get you started:
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="rafawelsh's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=rafawelsh&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
-</details>
 
 [website]: https://rafaelcastellanoswelsh.com/
 [twitter]: https://twitter.com/rafawelsh
